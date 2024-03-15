@@ -1,4 +1,4 @@
 # Requeriments
   nodejs
 # How yo use
-  run in terminal: node index.js
+  open a terminal in the folder container and run: node index.js
